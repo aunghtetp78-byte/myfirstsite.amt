@@ -1,2 +1,0 @@
-# Aung Myo Thu
-Welcome
