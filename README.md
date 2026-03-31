@@ -1,2 +1,2 @@
-# myfirstsite.amt
+# Aung Myo Thu
 Welcome
