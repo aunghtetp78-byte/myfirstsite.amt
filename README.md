@@ -1,0 +1,2 @@
+# myfirstsite.amt
+Welcome
